@@ -1,0 +1,17 @@
+h1 ka mtlb ye nhi ki uski size sabse bdi hai infact h1 means uski relevance of this heading sbse jyada hai bcz size to tum css se bhi change krskte ho kisi tag ka par h1>h2>h3 and so on in terms of relevance
+NOTE->there are only 6 headings from h1 to h6
+
+
+Location of files ->    ./x/y means khudh ke folder me dhundh rha hai x is current directory jisme y file hai 
+                        ../x/y means is folder ke bahar ek folder hai uska naam likho then uske andr ke files ke liye wapas slash dalo 
+
+
+<a href> here 'a' is a tag and href is an attribute means property of a tag 
+ex of tags are h1,a,br,body,head,html
+ex of attributes are href,src,alt,width
+
+
+
+block line vs inline elements 
+inline elements means utna hi jagah liya hai jitna uska space hai 
+block elements like ul li ye sab pure ek horizontal line jo hoti hai unko capture krlete hai bhale hi ek alphabet kyu na ho uske andar

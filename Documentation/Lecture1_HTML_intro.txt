@@ -1,0 +1,43 @@
+<html> is opening tag
+</html> is closing tag
+
+similarly there are many tags and tags are basically like containers 
+
+HTML has 2 portions 
+
+1)<head> portion -> this is metadata(that is it contains information about document like size of your mp4 file)
+2)<body> portion -> the actual content lives in body portion 
+
+
+<!DOCTYPE html> it says the document you are about to serve on the web page, it supports the HTML and the latest version of HTML is HTML5
+
+
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+ye structure hai  phle html open then head open head closed body open body closed then html closed
+
+
+Note (command+right arrow) key se right arrow key se sentence ke rightmost me chla jaega cursor same for all arrows(up,down,left)
+
+ Emmet is a web-developer's toolkit ...Emmet abbreviations are shortcuts that streamline HTML, CSS, and XML code generation.
+ example-> "!" this is emmet Abbrebiation 
+
+
+ <h1>Hello
+   from 
+   satya 
+   bhai</h1> aese likho ya fir 
+
+   h1>Hello from satya bhai</h1> aese likho line break nhi aaega bcz html me line break ke liye alag tags likhni pdti hai aage 
+
+
+
+   tr is table row
+   inside tr there is th and td
+    th is table heading 
+    td is table data
